@@ -1,0 +1,6 @@
+langchain
+langchain_community
+google-generativeai
+langgraph>=0.0.30
+python-dotenv
+requests
